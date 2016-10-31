@@ -1,26 +1,111 @@
-# training
+#《Docker/Kubernetese/PaaS基础》课程大纲
 
-#PaaS产生的背景以及DataFoundry产品介绍
+##培训对象
 
-#Docker概念及基本操作
+ -   开发工程师
 
-#DataFoundry技术架构及功能
+ -   平台运维人员
 
-#微服务
+ -   系统架构师
 
-#应用上云经验分享
-* 应用上云改造
-* 注意事项
+##课程目的
 
-#演示
-* zepplin
+-   帮助研发团队了解容器、容器编排的基础知识
 
-#上云实战
-* guestbook实例上云
-* 已有dockerfile产品上云指导
+-   理解为何使用容器、在何种场景使用容器
 
-#培训准备
-* 培训人员统计，上机人员统计
-* 账号开通
-* 客户端下载及安装
-* 课前预习：docker及Kubernetes材料链接
+-   将容器技术应用来提升开发和软件交付的效率
+
+##课程目标
+
+通过本次培训，您将：
+
+-   理解相关概念
+
+-   动手实际操作
+
+-   利用DataFoundry搭建第一个PaaS上的应用
+
+##课前准备
+
+    -   学习和了解Docker的预备知识（http://edu.51cto.com/course/course_id-4238.html）
+
+    -   下载Docker本地使用环境（http://get.daocloud.io/#install-docker-for-mac-windows）
+
+    -   学习和了解Kubernetes的预备知识（http://www.jikexueyuan.com/course/2092.html）
+
+    -   学习和了解DataFoundry (https://lab.dataos.io)
+
+    -   下载DataFoundry客户端以及相关依赖
+
+        *   https://s3.cn-north-1.amazonaws.com.cn/datafoundry/client/linux-32bit.tar.gz
+
+        *   https://s3.cn-north-1.amazonaws.com.cn/datafoundry/client/linux-64bit.tar.gz
+
+        *   https://s3.cn-north-1.amazonaws.com.cn/datafoundry/client/mac.zip
+
+        *   https://s3.cn-north-1.amazonaws.com.cn/datafoundry/client/windows.zip
+
+##授课内容
+**Docker基础** -讲授，演示，操作-1H
+	
+	-   背景
+	-   Docker容器
+	-   Docker镜像
+	-   编写Dockerfile
+	-   镜像仓库
+	-   本地开发实践 
+	-   小结                                                                                               
+**容器进阶**   - 讲授，演示-0.5H
+	
+	-   容器网络
+	-   容器存储
+	-   容器编排
+	-   监控、日志
+	-   其他容器及趋势   
+	-   小结                                        
+                                                                                                   
+                                                                                                   
+
+  **DevOps**  -讲授，演示-0.5H
+	
+	-   背景
+	-   康威定律
+	-   方法论，CI、CD
+	-   DevOps工具
+	-   Docker对DevOps的影响   
+	-   小结                                  
+                                                                                                   
+                                                                                                   
+
+  **微服务** -讲授，演示-0.5H
+	
+	-   背景
+	-   优缺点
+	-   技术实现
+	-   小结                                                     
+                                                                                                   
+                                                                                                   
+
+  **Kubernetes基础**-讲授，演示，操作-1H
+	
+	-   历史
+	-   组件
+	-   资源对象和业务逻辑
+	-   操作（客户端）
+	-   小结                                                     
+                                                                                                   
+                                                                                                   
+
+  **PaaS基础（以DataFoundry为例）**   -讲授，演示，操作  -2H
+	
+	-   背景
+	-   目标 
+	-   技术架构
+	-   实践操作（界面）    
+	-   小结
+**课程总结** -0.5H                              
+                                                                                                   
+
+
+

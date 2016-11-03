@@ -35,6 +35,8 @@
     -   学习和了解Kubernetes的预备知识（http://www.jikexueyuan.com/course/2092.html）
 
     -   学习和了解DataFoundry (https://lab.dataos.io)
+    
+    -   下载git客户端
 
     -   下载DataFoundry客户端以及相关依赖
 
@@ -49,7 +51,7 @@
 ##授课内容
 **Docker基础** -讲授，演示，操作-1H
 	
-	-   背景
+	-   容器的意义
 	-   Docker容器
 	-   Docker镜像
 	-   编写Dockerfile

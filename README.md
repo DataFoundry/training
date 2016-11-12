@@ -30,7 +30,7 @@
 
     -   学习和了解Docker的预备知识（http://edu.51cto.com/course/course_id-4238.html）
 
-    -   下载Docker本地使用环境（http://get.daocloud.io/#install-docker-for-mac-windows）
+    -   下载Docker本地使用环境（http://get.daocloud.io/#install-docker-for-mac-windows） 如果是win10一下，安装docker toolbox(https://get.daocloud.io/toolbox/)
 
     -   学习和了解Kubernetes的预备知识（http://www.jikexueyuan.com/course/2092.html）
 
